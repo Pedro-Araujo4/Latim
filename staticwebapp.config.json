@@ -1,12 +1,13 @@
 {
 "routes": [
 {
-"route": "/home*",
+"route": "/src/pages/home.js",
 "allowedRoles": ["authenticated"]
 },
 {
-"route": "/login*",
+"route": "/src/pages/login.js",
 "allowedRoles": ["authenticated"]
+
 }
 ]
 }
