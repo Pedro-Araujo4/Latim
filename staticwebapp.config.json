@@ -1,5 +1,5 @@
 {
     "navigationFallback": {
-     "rewrite": "/src/pages/main.js"
+     "rewrite": "/index.js"
     }
 }
