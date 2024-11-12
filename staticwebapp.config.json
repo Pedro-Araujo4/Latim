@@ -1,13 +1,5 @@
 {
-"routes": [
-{
-"route": "/src/pages/home.js",
-"allowedRoles": ["authenticated"]
-},
-{
-"route": "/src/pages/login.js",
-"allowedRoles": ["authenticated"]
-
-}
-]
+    "navigationFallback": {
+     "rewrite": "/index.html"
+    }
 }
